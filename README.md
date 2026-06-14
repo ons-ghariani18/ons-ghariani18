@@ -71,7 +71,7 @@ Mon leitmotiv ? **Allier la rigueur de l'automatisation système à la créativi
 ## 🏆 Trophées GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ons-ghariani18&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophées GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ons-ghariani18&theme=radical" alt="Résumé de Profil GitHub" />
 </div>
 
 ---
