@@ -1,50 +1,58 @@
-# 👋 Salut, je suis Ghariani Ons
+# 👋 Salut, je suis Ons Ghariani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Étudiante+en+Informatique;Développeuse+Web+Passionnée;Toujours+en+train+d'apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=41CD52&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+Ing%C3%A9nierie+Cloud+%26+DevOps;Passionn%C3%A9e+par+le+Platform+Engineering;Adore+allier+Technique+%26+Design+UI%2FUX" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ## 🚀 À propos de moi
 
-Passionnée par le développement web et étudiante en informatique, je plonge dans l'univers fascinant des technologies web. Avec un intérêt particulier pour JavaScript, je perfectionne continuellement mes compétences dans ce langage puissant. 
+Actuellement en formation d'ingénieur spécialisée en **Cloud Computing & DevOps**, je me passionne pour la conception d'architectures cloud-native robustes, l'automatisation des infrastructures et le *Platform Engineering*. 
 
-Mon parcours en développement web est une aventure passionnante d'exploration, d'apprentissage et de croissance. Je m'efforce de créer des expériences utilisateur engageantes et dynamiques, tout en embrassant la nature en constante évolution du web.
+Mon leitmotiv ? **Allier la rigueur de l'automatisation système à la créativité du design UI/UX** afin de construire des plateformes internes (IDP) fluides, performantes et centrées sur l'expérience développeur. Toujours curieuse d'apprendre, je pousse mes compétences au-delà des architectures traditionnelles pour explorer le monde de l'orchestration GitOps et l'automatisation intelligente des infrastructures.
 
-## 🔭 Actuellement
+---
 
-- 🌐 **Projet en cours :** Développement d'un site web
-- 📚 **En apprentissage :** Java
-- 💡 **Focus :** Amélioration de mes compétences en JavaScript
-- 🎯 **Objectif :** Devenir une développeuse web full-stack accomplie
+## 🔭 Mes Focus Actuels
 
-## 🛠️ Technologies & Outils
+- 🛠️ **Platform Engineering & GitOps :** Modélisation d'infrastructures hautement disponibles et auto-gérées.
+- 🐳 **Orchestration & CI/CD :** Approfondissement des architectures avancées sous **Kubernetes**, pipelines CI/CD complexes et GitOps.
+- 🤖 **Automatisation Intelligente :** Intégration de workflows d'observabilité et de remédiation automatisée.
+- 🎨 **Créativité :** Conception d'interfaces modernes pour l'outillage et les portails développeurs.
+
+---
+
+## 🛠️ Stack Technique & Outils
 
 <div align="center">
 
-### Langages de Programmation
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ☁️ Cloud, Orchestration & Conteneurs
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1941?style=for-the-badge&logo=openstack&logoColor=white)
 
-### Développement Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ⚙️ Automatisation, IaC & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Design & Outils
+### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### Autres
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+### 💻 Langages & Scripts
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 Statistiques GitHub
 
@@ -66,13 +74,13 @@ Mon parcours en développement web est une aventure passionnante d'exploration, 
   <img src="https://github-profile-trophy.vercel.app/?username=ons-ghariani18&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophées GitHub" />
 </div>
 
+---
+
 ## 🌐 Connectons-nous !
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ons-ghariani)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ons-ghariani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ons-ghariani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ons-ghariani)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lo21555#7603)
 
