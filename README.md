@@ -23,6 +23,26 @@ Mon leitmotiv ? **Allier la rigueur de l'automatisation système à la créativi
 
 ---
 
+## 🌟 Repos Populaires
+
+<!-- ⚠️ Remplacez REPO-1, REPO-2, REPO-3 par les vrais noms de vos dépôts GitHub -->
+<div align="center">
+  <a href="https://github.com/ons-ghariani18/REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ons-ghariani18&repo=REPO-1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/ons-ghariani18/REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ons-ghariani18&repo=REPO-2&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ons-ghariani18/REPO-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ons-ghariani18&repo=REPO-3&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Stack Technique & Outils
 
 <div align="center">
